@@ -1,6 +1,0 @@
-up_side = 10
-bottom = 20
-hight = 5
-area = (up_side + bottom) * hight / 2
-answer = f"{area}cm2"
-print(answer)
